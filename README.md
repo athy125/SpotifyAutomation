@@ -18,6 +18,3 @@ Spotify Playlist Generator is a Python script that automatically builds a new Sp
 ### Scheduling
 This task is scheduled with Windows Task Scheduler:
 ![Spotify Task in Scheduler](img/task-scheduler.png "Spotify Task in Scheduler")
-
-### Final Result
-![Generated Spotify Playlist](img/spotify-playlist.png "Generated Spotify Playlist")
